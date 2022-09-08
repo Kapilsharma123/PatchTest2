@@ -1,0 +1,12 @@
+diff --git PatchTest2/ViewController.swift PatchTest2/ViewController.swift
+index 05aa042..01c99f6 100644
+--- PatchTest2/ViewController.swift
++++ PatchTest2/ViewController.swift
+@@ -12,6 +12,7 @@ class ViewController: UIViewController {
+     override func viewDidLoad() {
+         super.viewDidLoad()
+        print("Main2")
++        print("main3")
+     }
+ 
+ 
