@@ -11,7 +11,10 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        print("Here's some text.")
+        print("And a second line.")
+        print("And a third line.")
+        print("A fourth line.")
     }
 
 
