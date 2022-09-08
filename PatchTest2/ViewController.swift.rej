@@ -1,0 +1,9 @@
+diff a/PatchTest2/ViewController.swift b/PatchTest2/ViewController.swift	(rejected hunks)
+@@ -12,6 +12,7 @@ class ViewController: UIViewController {
+     override func viewDidLoad() {
+         super.viewDidLoad()
+        print("Main2")
++        print("main3")
+     }
+ 
+ 
